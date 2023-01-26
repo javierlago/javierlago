@@ -1,4 +1,4 @@
-### Hi there 👋
+### Muy buenas 👋
 
 
 - 🌱 Actualmente estudiando Desarollo de Aplicaciones Web en el IES Teis de Vigo.
