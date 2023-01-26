@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 Currently studying web development in IES Teis https://www.edu.xunta.gal/centros/iesteis/
+- 🌱 Studying web development in IES Teis https://www.edu.xunta.gal/centros/iesteis/
 - 👨🏻‍🎓 I’m currently learning ...Java and MySQL
 - 📫 How to reach me: javierlagoamoedo.daw@gmail.com
 <!--
