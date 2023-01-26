@@ -1,7 +1,9 @@
-### Muy buenas 👋
+### Hi there 👋
 
 
-- 🌱 Actualmente estudiando Desarollo de Aplicaciones Web en el IES Teis de Vigo.
+- 🌱 Currently studying web development in IES Teis https://www.edu.xunta.gal/centros/iesteis/
+- 👨🏻‍🎓 I’m currently learning ...Java and MySQL
+- 📫 How to reach me: javierlagoamoedo.daw@gmail.com
 <!--
 **javierlago/javierlago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
