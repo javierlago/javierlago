@@ -1,32 +1,20 @@
 
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 Studying web development in IES Teis https://www.edu.xunta.gal/centros/iesteis/
-- 👨🏻‍🎓 I’m currently learning ...Java,MySQL and Python.
+<br><br>
+- 🌱 Studying web development in [IES Teis](https://www.edu.xunta.gal/centros/iesteis/)
+- 👨🏻‍🎓 I’m currently learning ... Java, MySQL, and Python.
 - 📫 How to reach me: javierlagoamoedo.daw@gmail.com
-<!--
-**javierlago/javierlago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br></br>
+<br></br>
+<br></br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-<p align="center">
-  <i>Let's connect and chat! Find me ...</i>
 
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/) 
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
-  <p align="center">
-</div>
+
+
 
 <div align="center">
 <h1>Languages and Tools</h1>
