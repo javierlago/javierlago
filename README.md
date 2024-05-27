@@ -8,17 +8,6 @@ After years mastering CNC machinery in the metal sector, I'm poised for a new ch
 <br></br>
 
 
-<div align="center">
-<p align="center">
-
-  ## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/) 
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
-  <p align="center">
-</div>
-
-
 
 <div align="center">
 <h1>Languages and Tools</h1>
@@ -67,6 +56,16 @@ After years mastering CNC machinery in the metal sector, I'm poised for a new ch
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierlago&count_private=true">
 
 </p>
+</div>
+
+<div align="center">
+<p align="center">
+
+  ## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/) 
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
+  <p align="center">
 </div>
 
 
