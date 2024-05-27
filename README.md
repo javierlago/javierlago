@@ -1,5 +1,5 @@
 
-### Hi there 👋
+<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 
 - 🌱 Studying web development in IES Teis https://www.edu.xunta.gal/centros/iesteis/
@@ -19,8 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<p align="center">
+  <i>Let's connect and chat! Find me ...</i>
 
-
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/) 
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
+  <p align="center">
+</div>
 
 <div align="center">
 <h1>Languages and Tools</h1>
@@ -43,6 +49,7 @@ Here are some ideas to get you started:
     <img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/>
+<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9SjPKout-UVMQy4dHur-UNoZCVtzrIPcG6IfT4t2Gg&s" alt="PL/SQL" title="PL/SQL"/>
 </div>
 <div align="center">
     <h2>OS</h2>
@@ -56,4 +63,28 @@ Here are some ideas to get you started:
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+</div>
+
+
+
+<div align="center">
+<h2>GitHub Stats</h2>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=javierlago&hide=stars&show_icons=true&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierlago&count_private=true">
+
+</p>
+</div>
+
+
+<div align="right">
+  <br>
+  </br>
+<br>
+  </br><br>
+  </br>
+
+ [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]()
+
 </div>
