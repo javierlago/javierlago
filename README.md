@@ -1,18 +1,22 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-- 🌱 Studying web development in [IES Teis](https://www.edu.xunta.gal/centros/iesteis/)
-- 👨🏻‍🎓 I’m currently learning ... Java, MySQL, and Python.
-- 📫 How to reach me: javierlagoamoedo.daw@gmail.com
+<picture> <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></picture>
 <br></br>
+After years mastering CNC machinery in the metal sector, I'm poised for a new challenge in the tech world. My experience with precision and automation translates into a strong foundation for this transition. I look forward to applying my problem-solving skills and meticulous mindset to tackle technological challenges. Committed to continuous learning, I'm excited to contribute my expertise to innovation and progress in the tech field.
 <br></br>
 <br></br>
 
 
+<div align="center">
+<p align="center">
 
+  ## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/) 
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
+  <p align="center">
+</div>
 
 
 
