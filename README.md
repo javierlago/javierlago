@@ -1,81 +1,91 @@
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## 🙋‍♂️ About Me
 
 <picture> <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></picture>
-<br></br>
-After years mastering CNC machinery in the metal sector, I'm poised for a new challenge in the tech world. My experience with precision and automation translates into a strong foundation for this transition. I look forward to applying my problem-solving skills and meticulous mindset to tackle technological challenges. Committed to continuous learning, I'm excited to contribute my expertise to innovation and progress in the tech field.
-<br></br>
-<br></br>
 
+After years working with precision and automation in the industrial sector, I made a deliberate transition into software development — bringing with me a problem-solving mindset and an eye for detail that translates directly into clean, reliable code.
 
+I'm a **Fullstack developer** with hands-on experience in both frontend and backend technologies, comfortable working across the stack — from database design to user interfaces.
+
+I'm drawn to projects that **push boundaries and embrace new challenges**, where technology is used not just to solve problems, but to rethink them. I believe the best code comes from curiosity, discipline, and never settling for "good enough."
+
+Currently open to opportunities where I can keep growing, contribute meaningfully, and build things that matter.
+
+---
+
+## 🚀 Projects
+
+### 🏋️ Api_MyClub
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/javierlago/Api_MyClub)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/javierlago/Api_MyClub)
+[![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/javierlago/Api_MyClub)
+
+A RESTful API built with Laravel for managing sports clubs — handling full CRUD operations for athletes, coaches, and all club-related entities. Developed as my final degree project.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierlago/Api_MyClub)
+
+---
+
+### 📱 MyClub
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/javierlago/MyClub)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/javierlago/MyClub)
+
+Android application built in Java that serves as the mobile client for the Api_MyClub backend. Allows club staff to manage athletes, coaches and club operations directly from their phone.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierlago/MyClub)
+
+---
+
+### 🍽️ Restaurant Menu
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/javierlago/restaurant-menu)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/javierlago/restaurant-menu)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/javierlago/restaurant-menu)
+
+A web application for managing a restaurant menu, built with React and deployed on Vercel. Allows full control over dishes, categories and menu structure.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierlago/restaurant-menu)
+
+---
+
+### 🚕 Aplicacion_Car_Teis
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/javierlago/Aplicacion_Car_Teis)
+
+A desktop application built with Python for managing a taxi company's vehicle fleet — tracking cars, assignments, and operational data for the business.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierlago/Aplicacion_Car_Teis)
+
+---
+
+### 🔔 GLPI SLA Notifier
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/javierlago/glpi-slanotifier)
+[![GLPI](https://img.shields.io/badge/GLPI-9.5-0078D4?style=for-the-badge&logoColor=white)](https://github.com/javierlago/glpi-slanotifier)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/javierlago/glpi-slanotifier)
+
+A GLPI 9.5 plugin developed in PHP that monitors ticket SLAs and sends real-time alerts via a Telegram bot — keeping support teams informed before deadlines are breached.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierlago/glpi-slanotifier)
+
+---
+
+## 🌍 Languages
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge)
+
+---
+
+## 📚 Currently Learning
+
+![AI Tools](https://img.shields.io/badge/AI--Powered%20Development-In%20Progress-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+Exploring how AI tools can enhance the development workflow — from code generation and review to automation and intelligent integrations.
+
+---
 
 <div align="center">
-<h1>Languages and Tools</h1>
-<div align="center">
-    <h2>Languages</h2>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-</div>
-<div align="center">
-    <h2>Frameworks</h2>
-    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" alt="Qt" title="Qt"/>
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>
-</div>
-<div align="center">
-    <h2>DB</h2>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/>
-<img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9SjPKout-UVMQy4dHur-UNoZCVtzrIPcG6IfT4t2Gg&s" alt="PL/SQL" title="PL/SQL"/>
-</div>
-<div align="center">
-    <h2>OS</h2>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
-</div>
-<div align="center">
-    <h2>Others</h2>
-    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" title="PyCharm"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-</div>
 
+## <b>Let's Connect..!</b> 🤝
 
-
-<div align="center">
-<h2>GitHub Stats</h2>
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=javierlago&hide=stars&show_icons=true&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierlago&count_private=true">
-
-</p>
-</div>
-
-<div align="center">
-<p align="center">
-
-  ## <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/) 
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
-  <p align="center">
-</div>
-
-
-<div align="right">
-  <br>
-  </br>
-<br>
-  </br><br>
-  </br>
-
- [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]()
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lago-amoedo/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierlagoamoedo@gmail.com)
 
 </div>
